@@ -1,1 +1,1 @@
-Data Structure Practice in Java
+Data Structures in Java
